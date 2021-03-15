@@ -21,4 +21,4 @@ steps:
 - script: |
     npm install
     npm run build
-  displayName: 'npm install and build and change2 '
+  displayName: 'npm install and build and change2.2 '
